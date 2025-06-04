@@ -6,7 +6,7 @@
 //
 //  File Name :     LBA11P5.c
 //  Description :   Accept number from user and Display pattern
-//  Author :        Omkar Santosh Wagh
+//  Author :        Shahid Rajjak Shaikh
 //  Date :          02/06/2025
 //
 //////////////////////////////////////////////////////////////////////////////////////////////
@@ -19,7 +19,7 @@
 //  Description  :       Accept number from user and Display pattern
 //  Input Arguments :    Integer
 //  Output :             Integer
-//  Author :             Omkar Santosh Wagh 
+//  Author :             Shahid Rajjak Shaikh
 //  Date :               02/06/2025
 //
 //////////////////////////////////////////////////////////////////////////////////////////////
