@@ -11,7 +11,7 @@
 //
 //  File Name :     LBA12P3.c
 //  Description :   Accept number of iRow and iCol from user and Display pattern
-//  Author :        Omkar Santosh Wagh
+//  Author :        Shahid Rajjak Shaikh
 //  Date :          02/06/2025
 //
 //////////////////////////////////////////////////////////////////////////////////////////////
@@ -24,7 +24,7 @@
 //  Description  :       Used to Display pattern
 //  Input Arguments :    Integer, Integer
 //  Output :             Integer pattern
-//  Author :             Omkar Santosh Wagh 
+//  Author :        Shahid Rajjak Shaikh
 //  Date :               02/06/2025
 //
 //////////////////////////////////////////////////////////////////////////////////////////////
