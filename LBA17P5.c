@@ -14,7 +14,7 @@
 // 
 //  File Name :     LBA17P5.c
 //  Description :   Accept number of rows and columns from user and display a pattern
-//  Author :        Omkar Santosh Wagh
+//  Author :        Shahid Rajjak Shaikh
 //  Date :          03/06/2025
 // 
 //////////////////////////////////////////////////////////////////////////////////////////////
@@ -27,7 +27,7 @@
 //  Description  :       Prints a pattern based on user input
 //  Input Arguments :    Integer, Integer
 //  Output :             Prints Integer pattern
-//  Author :             Omkar Santosh Wagh
+//  Author :             Shahid Rajjak Shaikh
 //  Date :               03/06/2025
 // 
 //////////////////////////////////////////////////////////////////////////////////////////////
