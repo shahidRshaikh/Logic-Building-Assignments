@@ -4,7 +4,7 @@
 //
 //  File Name :     LBA8P2.c
 //  Description :   To calculate area of Rectangle
-//  Athor :         Omkar Santosh Wagh
+//  Author :        Shahid Rajjak Shaikh
 //  Date :          15/05/2025
 //
 ////////////////////////////////////////////////////////////////////////
