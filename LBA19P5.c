@@ -16,7 +16,7 @@
 //  File Name :     LBA19P5.c
 //  Description :   Accept N number from user and accept one another number as No return,
 //                  frequency of No from it.
-//  Author :        Omkar Santosh Wagh
+//  Author :        Shahid Rajjak Shaikh
 //  Date :          03/06/2025
 // 
 //////////////////////////////////////////////////////////////////////////////////////////////
@@ -32,7 +32,7 @@
 //                    Integer (iSize) - number of elements in the array
 //                    Integer (iNo) - number to search frequency in Array
 //  Output          : return frequency of No(iFrequency).
-//  Author          : Omkar Santosh Wagh
+//  Author          : Shahid Rajjak Shaikh
 //  Date            : 03/06/2025
 //
 //////////////////////////////////////////////////////////////////////////////////////////////
