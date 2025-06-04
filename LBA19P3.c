@@ -13,7 +13,7 @@
 //  File Name :     LBA19P3.c
 //  Description :   Accept N number from user,
 //                  check wheather that numbers contains 11 in it or not.
-//  Author :        Omkar Santosh Wagh
+//  Author :        Shahid Rajjak Shaikh
 //  Date :          03/06/2025
 // 
 //////////////////////////////////////////////////////////////////////////////////////////////
@@ -29,7 +29,7 @@
 //  Input Arguments : Integer array (Arr) - contains N elements
 //                    Integer (iSize) - number of elements in the array
 //  Output          : return bFlag.(true or false)
-//  Author          : Omkar Santosh Wagh
+//  Author          : Shahid Rajjak Shaikh
 //  Date            : 03/06/2025
 //
 //////////////////////////////////////////////////////////////////////////////////////////////
