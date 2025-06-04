@@ -12,7 +12,7 @@
 // 
 //  File Name :     LBA19P1.c
 //  Description :   Accept N number from user and return frequency of even numbers.
-//  Author :        Omkar Santosh Wagh
+//  Author :        Shahid Rajjak Shaikh
 //  Date :          03/06/2025
 // 
 //////////////////////////////////////////////////////////////////////////////////////////////
@@ -27,7 +27,7 @@
 //  Input Arguments : Integer array (Arr) - contains N elements
 //                    Integer (iSize) - number of elements in the array
 //  Output          : return frequency of N numbers to main
-//  Author          : Omkar Santosh Wagh
+//  Author          : Shahid Rajjak Shaikh
 //  Date            : 03/06/2025
 //
 //////////////////////////////////////////////////////////////////////////////////////////////
