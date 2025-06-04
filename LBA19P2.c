@@ -14,7 +14,7 @@
 //  File Name :     LBA19P2.c
 //  Description :   Accept N number from user and return ,
 //                  difference between frequency of even numbers and odd numbers.
-//  Author :        Omkar Santosh Wagh
+//  Author :        Shahid Rajjak Shaikh
 //  Date :          03/06/2025
 // 
 //////////////////////////////////////////////////////////////////////////////////////////////
@@ -29,7 +29,7 @@
 //  Input Arguments : Integer array (Arr) - contains N elements
 //                    Integer (iSize) - number of elements in the array
 //  Output          : return frequency between even and odd number.
-//  Author          : Omkar Santosh Wagh
+//  Author          : Shahid Rajjak Shaikh
 //  Date            : 03/06/2025
 //
 //////////////////////////////////////////////////////////////////////////////////////////////
