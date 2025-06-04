@@ -13,7 +13,7 @@
 //  File Name :     LBA18P5.c
 //  Description :   Accept N number from user and display all such elemnts,
 //                  which is Multiples of 11.
-//  Author :        Omkar Santosh Wagh
+//  Author :        Shahid Rajjak Shaikh
 //  Date :          03/06/2025
 // 
 //////////////////////////////////////////////////////////////////////////////////////////////
@@ -28,7 +28,7 @@
 //  Input Arguments : Integer array (Arr) - contains N elements
 //                    Integer (iSize) - number of elements in the array
 //  Output          : Display the elements is multiples of 11.
-//  Author          : Omkar Santosh Wagh
+//  Author          : Shahid Rajjak Shaikh
 //  Date            : 03/06/2025
 //
 //////////////////////////////////////////////////////////////////////////////////////////////
