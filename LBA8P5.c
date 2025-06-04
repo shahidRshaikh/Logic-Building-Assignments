@@ -4,7 +4,7 @@
 //
 //  File Name :     LBA8P5.c
 //  Description :   To calculate Fahrenheit tempreture into celsius
-//  Athor :         Omkar Santosh Wagh
+//  Author :        Shahid Rajjak Shaikh
 //  Date :          15/05/2025
 //
 ////////////////////////////////////////////////////////////////////////
