@@ -14,7 +14,7 @@
 //  File Name :     LBA18P1.c
 //  Description :   Accept N number from user and return difference between 
 //                  summation of even and Odd elements.
-//  Author :        Omkar Santosh Wagh
+//  Author :        Shahid Rajjak Shaikh
 //  Date :          03/06/2025
 // 
 //////////////////////////////////////////////////////////////////////////////////////////////
@@ -30,7 +30,7 @@
 //  Input Arguments : Integer array (Arr) - contains N elements
 //                    Integer (iSize) - number of elements in the array
 //  Output          : Returns an integer difference (Sum of evens - Sum of odds)
-//  Author          : Omkar Santosh Wagh
+//  Author          : Shahid Rajjak Shaikh
 //  Date            : 03/06/2025
 //
 //////////////////////////////////////////////////////////////////////////////////////////////
